@@ -1,0 +1,2 @@
+rootProject.name = "Android Permissions App"
+include ':app'
