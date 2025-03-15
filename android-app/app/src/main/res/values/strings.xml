@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Permissions App</string>
+    
+    <!-- Button Labels -->
+    <string name="request_permissions">Request All Permissions</string>
+    <string name="open_settings">Open Settings</string>
+    
+    <!-- Dialog Messages -->
+    <string name="permission_rationale_title">Permission Required</string>
+    <string name="permission_rationale_message">This app needs access to various features of your device to demonstrate permission handling. Please grant the requested permissions to continue.</string>
+    
+    <!-- Status Messages -->
+    <string name="permissions_granted">All permissions have been granted!</string>
+    <string name="permissions_denied">Some permissions were denied. The app may not function properly.</string>
+    <string name="permissions_denied_permanently">Some permissions were permanently denied. Please grant them from Settings.</string>
+    
+    <!-- Dialog Buttons -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Permission Descriptions -->
+    <string name="location_permission_desc">Access your location for location-based features</string>
+    <string name="storage_permission_desc">Access files on your device</string>
+    <string name="camera_permission_desc">Take photos and record videos</string>
+    <string name="microphone_permission_desc">Record audio</string>
+    <string name="contacts_permission_desc">Access your contacts</string>
+    <string name="calendar_permission_desc">Access your calendar</string>
+    <string name="phone_permission_desc">Make and manage phone calls</string>
+    <string name="sms_permission_desc">Send and view SMS messages</string>
+    <string name="sensors_permission_desc">Access body sensors</string>
+</resources>
